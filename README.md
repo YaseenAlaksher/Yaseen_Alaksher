@@ -43,8 +43,8 @@ Features include clean layout, semantic HTML, and creative styling.
 | Technology | Description |
 |------------|-------------|
 | `HTML/CSS` | Front-end layout and styling |
-| `JavaScript` | (Coming soon) Dynamic behavior |
-| `Python` | Logic-based programs and game |
+| `JavaScript` | Dynamic behavior |
+| `Python` | Logic-based programs |
 | `C++` | Console-based apps like calculator |
 
 <h1 align="center">👋 Hi, I'm Yaseen Alakshar</h1>
